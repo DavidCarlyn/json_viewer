@@ -1,0 +1,9 @@
+{
+    "root" : {
+        "children" : [1, 2, 3],
+        "data" : {
+            "value" : 5,
+            "msg" : "hi"
+        }
+    }
+}
